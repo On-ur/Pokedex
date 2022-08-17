@@ -48,5 +48,4 @@ public String deletePokemon(@PathVariable int id){
         return "Deleted Pokemon with the ID:"+id;
 }
 
-
 }
