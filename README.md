@@ -37,4 +37,4 @@ NOTE: The JAR file is compressed within the two split zip files. Must be unziped
 
 ## License
 
-This project is licensed under the MIT license & the Apache license- see the [LICENSE.md](LICENSE.md) file for details 
+This project is licensed under the MIT license - see the [LICENSE.md](LICENSE.md) file for details 
