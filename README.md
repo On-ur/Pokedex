@@ -4,6 +4,8 @@ Coverage: Unknown (Tests wouldn't cooperate).
 
 A simple CRUD Pokedex API which is fetched from a simple website.
 
+NOTE: The JAR file is compressed within the two split zip files. Must be unziped to access.
+
 ## Info
 
 * URL for the kanban board: [Jira](https://och.atlassian.net/jira/software/projects/POK/boards/2)
@@ -11,7 +13,8 @@ A simple CRUD Pokedex API which is fetched from a simple website.
 ## To-be-Improved
 
 * Completeing the Pokédex and repairing the "undefiend" entries.
-* Having custom entry functionality from the website to add and update a Pokemon.
+* Having custom entry functionality from the website to add and update a Pokemon (Can be done with Postman).
+* Having a read all from the website (Can be done with Postman).
 * Functional Testing.
 
 ## Pre-requesities 
@@ -21,6 +24,7 @@ A simple CRUD Pokedex API which is fetched from a simple website.
 * MySQL (Latest)
 * Postman 
 * VsCode with LiveServer to host the website.
+* Any Decompressor to extract ZIP.
 
 ## Built With
 
