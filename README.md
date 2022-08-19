@@ -9,6 +9,7 @@ NOTE: The JAR file is compressed within the two split zip files. Must be unziped
 ## Info
 
 * URL for the kanban board: [Jira](https://och.atlassian.net/jira/software/projects/POK/boards/2)
+* URL for my presentation on the project: [Video](https://ufile.io/hzfqv343)
 
 ## To-be-Improved
 
